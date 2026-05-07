@@ -37,7 +37,7 @@ IMAGE_URLS = {
         "2f": "https://your-url.com/chalet_2f.png"
     },
     "kafe": {
-        "1f": "https://cdn.discordapp.com/attachments/1472963714927038566/1472983907606724750/kafe_f1.png?ex=69fc0c6a&is=69fabaea&hm=53230cb9b1dd9f5ca11fc0eb4cd28c30d4496692866213954556d41d327a67d5&, https://cdn.discordapp.com/attachments/1472963714927038566/1472983973557829905/kafe_f3.png?ex=69fc0c7a&is=69fabafa&hm=0a485f339978034cf85780cdda64b54bf3bfa21df71fa42962507294bd2e0fd3&, https://cdn.discordapp.com/attachments/1472963714927038566/1472983951193931807/kafe_f2.png?ex=69fc0c74&is=69fabaf4&hm=4b945062bdb56f8f9d3989c9f40d26f29696f8e94179c6ffd6e2b62d914980fa&",
+        "1f": "https://cdn.discordapp.com/attachments/1472963714927038566/1472983907606724750/kafe_f1.png?ex=69fc0c6a&is=69fabaea&hm=53230cb9b1dd9f5ca11fc0eb4cd28c30d4496692866213954556d41d327a67d5&""https://cdn.discordapp.com/attachments/1472963714927038566/1472983951193931807/kafe_f2.png?ex=69fc0c74&is=69fabaf4&hm=4b945062bdb56f8f9d3989c9f40d26f29696f8e94179c6ffd6e2b62d914980fa&""https://cdn.discordapp.com/attachments/1472963714927038566/1472983973557829905/kafe_f3.png?ex=69fc0c7a&is=69fabafa&hm=0a485f339978034cf85780cdda64b54bf3bfa21df71fa42962507294bd2e0fd3&",
         "2f": "https://cdn.discordapp.com/attachments/1472963714927038566/1472983951193931807/kafe_f2.png?ex=69fc0c74&is=69fabaf4&hm=4b945062bdb56f8f9d3989c9f40d26f29696f8e94179c6ffd6e2b62d914980fa&",
         "3f": "https://cdn.discordapp.com/attachments/1472963714927038566/1472983973557829905/kafe_f3.png?ex=69fc0c7a&is=69fabafa&hm=0a485f339978034cf85780cdda64b54bf3bfa21df71fa42962507294bd2e0fd3&"
     },
